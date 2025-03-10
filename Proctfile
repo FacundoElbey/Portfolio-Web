@@ -1,2 +1,3 @@
-web: php artisan serve --host=0.0.0.0 --port=$PORT
+web: php -d memory_limit=128M -S 0.0.0.0:$PORT -t public
+
 
