@@ -43,7 +43,7 @@
                     <p class="text-justify" style="line-height: 1.8; font-size: 1.1rem;">
                         🎯 Actualmente, en <strong>Trenes Argentinos Capital Humano</strong>, me encargo del <strong>mantenimiento, refactorización y optimización de aplicaciones existentes</strong>, 
                         además del <strong>diseño y gestión de bases de datos</strong>, garantizando integridad y rendimiento. He desarrollado sistemas de gestión de 
-                        <strong>tickets, reservas, inventario informático y archivo digital</strong>, impactando en la productividad y organización de la empresa.
+                        <strong>tickets, reservas, inventario informático, etc.</strong>, impactando en la productividad y organización de la empresa.
                     </p>
                     <p class="text-justify" style="line-height: 1.8; font-size: 1.1rem;">
                         🔹 <strong>Habilidades destacadas:</strong> Arquitectura de software, optimización de bases de datos, gestión de proyectos, depuración y resolución de errores.<br>  

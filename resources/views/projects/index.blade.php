@@ -62,8 +62,8 @@
                 <div class="card project-card shadow-sm">
                     <img src="{{ asset('img/proyecto3.jpg') }}" class="card-img-top" alt="Proyecto 3">
                     <div class="card-body">
-                        <h5 class="card-title fw-bold">Gestor de Archivo Ferroviario</h5>
-                        <p class="card-text text-muted">Sistema de digitalización y consulta de documentación, reemplazando el método analógico en una empresa ferroviaria.</p>
+                        <h5 class="card-title fw-bold">Proyecto 3</h5>
+                        <p class="card-text text-muted">Sistema para uso de tecnologías y microservicios.</p>
                         <a href="#" class="btn btn-primary">Ver Proyecto</a>
                     </div>
                 </div>
